@@ -1,0 +1,8 @@
+*{
+   
+    image-resolution: 100px !important;
+}
+
+.container-fluid {
+    background-color: rgb(16, 122, 215) !important;
+}
